@@ -1,1 +1,1 @@
-#Our Computer Science 2 Project will include creating a program that ranks players according to their statistics in one game. The program allows the user to input their stats in one game. The program will then calculate the player's Performance Index Rating and ranks them according to it.
+Our Computer Science 2 Project will include creating a program that allows the player to input an NBA player's name and gives the players average statistics, his Performance index Rating and his ranking.
